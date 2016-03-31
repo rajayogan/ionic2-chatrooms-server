@@ -1,4 +1,4 @@
 # ionic2chat-server
-Backend of the Realtime chat application
+Backend of the Realtime chatrooms application
 
-Details could be found here - http://tphangout.com/?p=192
+Details could be found here - http://tphangout.com/?p=248
